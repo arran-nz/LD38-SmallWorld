@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: a1cf9fbabd55e0041abce8e315ab30b3
+timeCreated: 1492872181
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rock_01
+    21300002: Rock_02
+    21300004: Rock_03
+    21300006: Rock_04
+    21300008: BulletHole_01
+    21300010: BulletHole_02
+    21300012: BulletHole_03
+    21300014: Large_Rock_01
+    21300016: Large_Rock_02
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rock_01
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rock_02
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 52
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rock_03
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 53
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rock_04
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 53
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BulletHole_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5457241, y: 0.4937126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BulletHole_02
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 35
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.56287074, y: 0.569856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BulletHole_03
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5349282, y: 0.48602846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Large_Rock_01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Large_Rock_02
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 7
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
