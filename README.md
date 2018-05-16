@@ -1,6 +1,6 @@
 # LD38-RoosSmallWorld
 
-This was made in 48 Hours by Arran Smith for (Ludum Dare 38)[https://ldjam.com/events/ludum-dare/38] on April 22nd to April 25th, 2017.
+This was made in 48 Hours by Arran Smith for [Ludum Dare 38](https://ldjam.com/events/ludum-dare/38) on April 22nd to April 25th, 2017.
 
 Theme: A Small World.
 
